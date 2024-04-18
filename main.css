@@ -65,9 +65,10 @@ input, button {
 	color: var(--pink);
 	font-size: 1.25rem;
 	font-weight: 700;
-	color: green;
+	color: #7CFC00;
 	cursor: pointer;
 	transition: 0.4s;
+	background-color: white;
 }
 
 #new-task-submit:hover {
